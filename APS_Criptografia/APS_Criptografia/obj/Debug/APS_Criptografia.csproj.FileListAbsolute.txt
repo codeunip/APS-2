@@ -1,0 +1,1 @@
+c:\users\usuario\documents\visual studio 2015\Projects\APS_Criptografia\APS_Criptografia\bin\Debug\APS_Criptografia.exe.config
